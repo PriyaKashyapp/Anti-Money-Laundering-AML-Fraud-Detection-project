@@ -93,7 +93,11 @@ Flagged Transactions : Transactions flagged based on AML rules.
 Anomalies Detected : Transactions identified as anomalies by DBSCAN clustering.
 Visualization : A directed graph showing flagged transactions and their connections.
 
-## Special thanks to Deepak for his contributions to this project.
+## Contributors
+
+We would like to thank the following individual for their valuable contributions to this project:
+
+- **Deepak** ([@deepakusername](https://github.com/deepakusername)) for their insights, guidance, and support.
 
 ## License
 
@@ -103,8 +107,8 @@ This project is licensed under the MIT License . See the LICENSE file for detail
 
 Have questions or want to collaborate? Feel free to reach out:
 
-Email: priyakashyapp007@gmail.com
-GitHub: @priyakashyapp
+Email: priyakashyapp007@gmail.com  
+GitHub: ([@priyakashyap](https://github.com/PriyaKashyapp))
 LinkedIn: https://www.linkedin.com/in/priyaa-kashyapp/
  
 
