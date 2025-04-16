@@ -95,7 +95,7 @@ Visualization : A directed graph showing flagged transactions and their connecti
 
 ## Contributors
 
-We would like to thank the following individual for their valuable contributions to this project:
+I would like to thank the following individual for their valuable contributions to this project:
 
 - **Deepak** ([@vasandanideepak0712](https://github.com/vasandanideepak0712)) for their insights, guidance, and support.
 
